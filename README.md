@@ -11,4 +11,4 @@
   + a
   + b
 
-[hse] (https://www.hse.ru/)
+[hse](https://www.hse.ru/)
